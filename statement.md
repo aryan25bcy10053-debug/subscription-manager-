@@ -1,5 +1,3 @@
-# 📝 Project Statement: Basic Subscription Manager
-
 ## 1. Problem Statement
 
 In today's service-based economy, individuals often subscribe to multiple recurring services (streaming, software, fitness, etc.), leading to a complex and often hidden accumulation of monthly costs. Without a centralized, simple tracking mechanism, users risk overlooking their total financial commitment, potentially leading to budgetary strain or missed opportunities to cancel unused services.
